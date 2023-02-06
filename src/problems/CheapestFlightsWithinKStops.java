@@ -21,6 +21,7 @@ public class CheapestFlightsWithinKStops {
                 for(int a : adj.keySet()){
                     pq.add(new int[]{price+adj.get(a), a, stops-1});
                 }
+                
             }
         }
         return -1;
