@@ -1,0 +1,452 @@
+[33mcommit b03d404799fee3c99c528e7f6eae9910afca9f03[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 12:58:00 2023 +0530
+
+    space added
+
+[33mcommit 28f7cab3d5c07db7aac52cc43e0c8c9ec2889e9f[m
+Merge: d285212 8e39566
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 12:50:42 2023 +0530
+
+    Merge branch 'master' of https://github.com/cdepanagoudra/LeetCode into HEAD
+
+[33mcommit d28521218046aec18523a940cbd027cb9ddb7930[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 12:34:33 2023 +0530
+
+    --
+
+[33mcommit 38cfea048d8e0e24ec3156c1cb7312fb0932a7e3[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 00:37:05 2023 +0530
+
+    ..
+
+[33mcommit 72c6d6246938277334baad73044fd16734d44dfe[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 00:13:30 2023 +0530
+
+    space added
+
+[33mcommit 5e65329ed3844bdca2e0c2a4c2270aeb664d7e9c[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 22 00:12:19 2023 +0530
+
+    number of zero filled subrrays
+
+[33mcommit 9ede6119c9b96da1d1cecccc6ee87125a9a233df[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Mar 21 23:58:45 2023 +0530
+
+    number of zero-filled subarrays
+
+[33mcommit 8e3956644df8fc43256f069b09aed4ab6ec5a31e[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Mar 21 19:37:54 2023 +0530
+
+    --
+
+[33mcommit 4fee19f9f9e73a01d8b79707b8fdecb5e875b7cd[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Mar 20 23:16:59 2023 +0530
+
+    canPlaceFlowers
+
+[33mcommit bd1b0920347757a7fc05e6664ea12a36bade563d[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Mar 19 17:21:55 2023 +0530
+
+    Design Add and Search Words Data Structure
+
+[33mcommit b0f906d7ee9c64b98e48d0726f89d329e12a7667[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Mar 18 19:23:25 2023 +0530
+
+    Designed browser history using stack
+
+[33mcommit 4a145c9b837f954b684be61435960b55935af77c[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Mar 18 18:58:49 2023 +0530
+
+    Design Browser History
+
+[33mcommit e66ecc76f0e0687b967160910c469be185153739[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Mar 18 00:15:02 2023 +0530
+
+    Implement Trie (Prefix Tree)
+
+[33mcommit c0da3e3ee95c09641a00795316ef059152bb58a4[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Mar 16 23:26:37 2023 +0530
+
+    Construct Binary Tree from Inorder and Postorder Traversal
+
+[33mcommit 1d36bf9fec9e66ecf532e90e330e9c90d039c354[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Mar 15 23:44:44 2023 +0530
+
+    958. Check Completeness of a Binary Tree
+
+[33mcommit 1e6484a1615ed3c7fb5bfe46abca4355c31a21a8[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Mar 14 21:52:32 2023 +0530
+
+    Sum root to leaf numbers
+
+[33mcommit cc24da6561b9e7ed61a58652965ab72a16b2fdb1[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Mar 14 00:21:23 2023 +0530
+
+    Symmetrix Tree
+
+[33mcommit 99acb64d80c244e7abcde88bf345cd1689cca622[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Mar 12 22:06:02 2023 +0530
+
+    mergeKList
+
+[33mcommit b36c11e3eba038569c007e2c43eaa052efe7ae17[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Mar 11 23:01:01 2023 +0530
+
+    109. Convert Sorted List to Binary Search Tree
+
+[33mcommit 45b2b534d4d9ba2a39412028b2e965e3107a9c2e[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Mar 9 11:23:04 2023 +0530
+
+    Linked list Cycle II
+
+[33mcommit ca21aff7bcafee1b8be5080862ab1c459e41affc[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Mar 4 17:41:48 2023 +0530
+
+    count subarrays with fixed bounds
+
+[33mcommit 42789b0a9acd7c91c9bb52b8e759cdf6eda622bd[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Fri Mar 3 21:35:20 2023 +0530
+
+    find the index of the first Occurrence
+
+[33mcommit 2dca2fb5424516fde92673111134f14efdead462[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Mar 2 22:04:53 2023 +0530
+
+    String Compression
+
+[33mcommit 5491eb862dec8395eaef8275b4759bd36f23ee84[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 28 22:22:31 2023 +0530
+
+    Find Dublicate Subtree
+
+[33mcommit c79379c4719db0131fce1972044f50bafe1ab75c[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 27 23:39:01 2023 +0530
+
+    Construct Quad Tree
+
+[33mcommit a01c9b1100355e48a31acb55618a7409a2450df1[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Feb 26 23:51:36 2023 +0530
+
+    Edit Distance
+
+[33mcommit ddde28779f89d501925153d595573309236cc813[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Feb 25 22:18:23 2023 +0530
+
+    Best time to buy and sell
+
+[33mcommit 0da2cc034a2f2b5ec458f717b29008c731f62bbc[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 21 23:33:47 2023 +0530
+
+    Single element in a sorted array
+
+[33mcommit bc8dfc7def5aa859ee89e3c1577a31adce02272f[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 20 23:04:52 2023 +0530
+
+    35. Search Insert Position
+
+[33mcommit b46b9a4f562f376b89dfadfc3d1c7397db5f46f7[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 20 22:59:28 2023 +0530
+
+    class Solution {
+        public int searchInsert(int[] nums, int target) {
+            int start = 0;
+            int end = nums.length - 1;
+    
+            while (start <= end) {
+                int mid = start + (end-start)/2;
+                if (nums[mid] == target) return mid;
+                else if (nums[mid] > target) end = mid-1;
+                else start = mid + 1;
+            }
+    
+            return start;
+        }
+    }
+
+[33mcommit e3549cc59accaa56d5882bffafe809e9c1522fa2[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Feb 18 22:20:14 2023 +0530
+
+    invertTree
+
+[33mcommit de938b864cd14f6f67797d29d413172d4fe4adf5[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Feb 18 00:06:45 2023 +0530
+
+    format corrected
+
+[33mcommit b2fe8b3d3f0fcb9b59bd9e1dfe947185dfa9cd40[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sat Feb 18 00:04:57 2023 +0530
+
+    Minimum Distance Between BST Nodes
+
+[33mcommit 463b7cd424fb765a420c6250cde21d761c929782[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Fri Feb 17 23:54:55 2023 +0530
+
+    FruitIntoBaskets
+
+[33mcommit fc8ba4aec7684760575386a443c4198013e5ad98[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Feb 16 22:42:14 2023 +0530
+
+    MaximumDepthofBinaryTree
+
+[33mcommit 3824d5dfee58baec23848a870a3e00dc6246e323[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Feb 15 16:04:17 2023 +0530
+
+    AddtoArrayFormofInteger
+
+[33mcommit 2b2a64e6ce9edfb6843acf31ad1fbbc5b89f2482[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 14 19:31:48 2023 +0530
+
+    System.out.println("asdasd");
+
+[33mcommit 2a67f2f3410995c804f515f8a1cf27a9d6f194df[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 14 17:27:22 2023 +0530
+
+    AddBinary
+
+[33mcommit b884f45bc90aca9424db15fe57559acc66af6ade[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 13 22:09:46 2023 +0530
+
+    CountOddNumbersinanIntervalRange
+
+[33mcommit 30cad1d8cb55f220b6d33ed119c1a5060d54bcc5[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Fri Feb 10 22:22:47 2023 +0530
+
+    AsFarFromLandAsPossible
+
+[33mcommit 723202db52645e9c81ab55447f5da348cbd1ba2a[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Feb 9 21:41:25 2023 +0530
+
+    NamingACompany
+
+[33mcommit df9bf6cdef19a3ec4e8117608b83cb7dba809150[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 7 23:17:59 2023 +0530
+
+    904. Fruit Into Baskets
+
+[33mcommit 8b6d62aab53fe6c52287ebde22fc725ba970eaa6[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Feb 7 23:13:50 2023 +0530
+
+    FruitIntoBaskets
+
+[33mcommit 1eb9d27595c205f715275e64d498d0d03d894f00[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 23:04:26 2023 +0530
+
+    ShuffletheArray
+
+[33mcommit 6171c5164fc1bdd0c30c72f6171cca5b234095a5[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:28:10 2023 +0530
+
+    commited
+
+[33mcommit 9a94a33e295ef95635d9209feb74dbc1bf6113a9[m[33m ([m[1;31mssh/master[m[33m)[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:23:30 2023 +0530
+
+    commited nishu
+
+[33mcommit 7292ea852a4d267b939906e9fcc86f69b824c1aa[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:21:08 2023 +0530
+
+    commitedddd
+
+[33mcommit d9e6955741dbb241d3a47325773f2f2f41e6e0ec[m[33m ([m[1;32mmaster[m[33m)[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:10:19 2023 +0530
+
+    commit
+
+[33mcommit a1814898c167c5e9dde8b2bc1796d4a767654cf2[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:09:48 2023 +0530
+
+    commit
+
+[33mcommit 39f2ed12a01adb9c1640f66ad9581ed500872160[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 22:08:48 2023 +0530
+
+    committed
+
+[33mcommit 34f7e1b4fbb0d7a492931b649e27a6a5b71bb35c[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 19:36:30 2023 +0530
+
+    committed
+
+[33mcommit 90cf4ec3658f06e861d7b30e0eebf11871a03c82[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 19:33:08 2023 +0530
+
+    commited
+
+[33mcommit c0d9b19c66212ae40eee04f4c51162adeed7146a[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 19:30:00 2023 +0530
+
+    written hi statement for my name
+
+[33mcommit 5fb4e21cc1712b19e231dbf8803f8608319fc077[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 19:28:16 2023 +0530
+
+    commected hi statement
+
+[33mcommit 561ace4c0c62481cb1a68b25448aa386296b3f62[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Feb 6 19:11:23 2023 +0530
+
+    written hi statement
+
+[33mcommit 13f204cfbc27e58e9d331c56e5652e3a9a64b555[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Feb 5 22:51:12 2023 +0530
+
+    FindAllAnagramsinaString
+
+[33mcommit c2ae6055111cf8abd2dfb0f516322ac4a38d4ef2[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Feb 5 22:48:35 2023 +0530
+
+    FindAllAnagramsinaString
+
+[33mcommit c2a8659b21ac0ce68b757734ef0787a30d4aad53[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Feb 5 00:18:02 2023 +0530
+
+    PermutationInString
+
+[33mcommit 8f915169fe8222b13a8ec327a7b9817bfadde670[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Fri Feb 3 23:21:29 2023 +0530
+
+    ZigzagConversion
+
+[33mcommit 393157069094a9cd302870adf1c45b96fd3d0124[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Thu Feb 2 10:49:23 2023 +0530
+
+    VerifyinganAlienDictionary
+
+[33mcommit 6872a41db9434be079cc30f43dde5a38936b3b1b[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Wed Feb 1 23:53:06 2023 +0530
+
+    GreatestCommonDivisorofStrings
+
+[33mcommit cc2da81d931f48a91f57ed919f2ca59c56bd6741[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Tue Jan 31 23:41:53 2023 +0530
+
+    bestTeamScore
+
+[33mcommit 49735726b5d456f6366fbddc55ae34d01e2f0a54[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Mon Jan 30 22:26:45 2023 +0530
+
+    NthTribonacciNumber
+
+[33mcommit e3370340f1f2fd3b7d4b2624d006303bf5b2c688[m
+Author: cdepanagoudra <cdepanagoudra@gmail.com>
+Date:   Sun Jan 29 22:18:26 2023 +0530
+
+    space added
+
+[33mcommit d68cf4dd9de69abb579558caa5371ef609490803[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sun Jan 29 22:07:15 2023 +0530
+
+    LRUCache
+
+[33mcommit b071574b159ea7682f3c7468a8df87f14823eac2[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sun Jan 29 22:03:16 2023 +0530
+
+    LFU_Cache
+
+[33mcommit d9b4917e001acb0af79e61760e6534c8d66bba5b[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 20:52:01 2023 +0530
+
+    DataStreamasDisjointIntervals.java
+
+[33mcommit 66ae558d32dcf8aac235beaa96e283470d04c134[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 17:29:47 2023 +0530
+
+    CheapestFlightsWithinKStops
+
+[33mcommit f10ee7f988e02eaa231b387c5a5842e14e19dc4f[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 17:25:09 2023 +0530
+
+    checking
+
+[33mcommit cd32d207d95a1f02f7ca57fcad3aafaa20087b41[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 16:10:05 2023 +0530
+
+    hg
+
+[33mcommit 512012ac008257d3e6ff50b3f24693835b155d01[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 16:07:47 2023 +0530
+
+    moved the folder
+
+[33mcommit e1cb1428131c8ab2648441a3a751a155e63b5980[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 16:05:13 2023 +0530
+
+    ConcatenatedWords
+
+[33mcommit 8676e7d590a31201704561b9066cc8317bd332c2[m
+Author: cdepanag <cdepanag@lin33005866.corp.capgemini.com>
+Date:   Sat Jan 28 15:54:09 2023 +0530
+
+    first commit
