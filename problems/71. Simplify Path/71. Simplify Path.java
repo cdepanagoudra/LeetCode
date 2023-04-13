@@ -16,6 +16,6 @@ class Solution {
 			res.insert(0, s.pop()).insert(0, "/");
 		}
 
-		return res.toString();
+		return res.toString();.i.
 	}
 }
