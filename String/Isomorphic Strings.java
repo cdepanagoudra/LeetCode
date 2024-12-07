@@ -12,7 +12,7 @@ class Solution {
             char charS = s.charAt(i);
             char charT = t.charAt(i);
 
-            // Check if the last seen positions differ
+            // Check if the last seen positions differr
             if (lastSeenS[charS] != lastSeenT[charT]) {
                 return false;
             }
