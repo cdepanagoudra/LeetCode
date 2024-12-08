@@ -17,7 +17,7 @@ class Solution {
                 return false;
             }
 
-            // Update the last seen positions
+            // Update the last seen positionss
             lastSeenS[charS] = i + 1;
             lastSeenT[charT] = i + 1;
         }
