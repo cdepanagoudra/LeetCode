@@ -2,6 +2,7 @@ class Solution {
     long p = 1000000007;
     public long power(long x,long y){
         long res = 1;
+        //variable
         if(x==0){
             return 0;
         }
